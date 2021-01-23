@@ -1,6 +1,6 @@
 # Steam Community Market Price Helper Web app deployed on Heroku
 
-The deployed web app is live at [title](https://www.example.com)
+The deployed web app is live at this [link](https://scm-price-helper.herokuapp.com/)
 
 This web app gets price and volume data of a virtual item traded on [Steam Community Market](https://steamcommunity.com/market/), and generates hourly level time-series charts for price and volume separately. 
 
