@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run scm-price-helper-app-heroku.py
